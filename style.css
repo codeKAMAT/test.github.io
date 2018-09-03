@@ -1,0 +1,35 @@
+body{
+  background: url(test.jpg) no-repeat center center fixed;;
+  background-size:cover;
+  font-family: 'Lobster', cursive;
+}
+#containt{
+  text-align:center;
+  padding-top: 15%;
+
+}
+#navcolor{
+  background-color:#fff;
+}
+h1{
+  color: #fff;
+  text-shadow:1px 4px 3px rgba(0,0,0,0,0.4),
+              1px 8px 13px rgba(0,0,0,0,0.1),
+              1px 18px 23px rgba(0,0,0,0,0.1);
+  font-size: 5em;
+  font-weight: 400;
+}
+h3{
+  color: #fff;
+  font-size: 1.5em;
+  text-shadow:1px 4px 3px rgba(0,0,0,0,0.4),
+              1px 8px 13px rgba(0,0,0,0,0.1),
+              1px 18px 23px rgba(0,0,0,0,0.1);
+}
+hr{
+  background-color: white;
+  width: 400px;
+  border-top: 1px solid rgba(0,0,0,0,0.2);
+  border-bottom:1px solid rgba(0,0,0,0,0.2);
+
+}
